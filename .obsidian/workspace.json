@@ -178,11 +178,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "04b344428e6d095d",
   "lastOpenFiles": [
+    "90 AI/Secrets/New Text Document.txt",
+    "90 AI/Secrets",
+    "90 AI/New folder",
     "New Text Document.txt",
     "01 About Me/Writing Style.md",
     "01 About Me/Personal Preferences.md",
@@ -198,9 +202,6 @@
     "90 AI/AI Instructions",
     "99 Archive",
     "90 AI",
-    "80 Projects",
-    "70 Personal",
-    "60 Fitness",
     "10 Microsoft Security/LinkedIn Posts/Day_01_LinkedIn.md",
     "10 Microsoft Security/LinkedIn Posts/Day_99_LinkedIn.md",
     "10 Microsoft Security/LinkedIn Posts/Day_98_LinkedIn.md",
