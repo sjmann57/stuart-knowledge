@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "023436e7f7dc9c4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3472ba5d5c36d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04b344428e6d095d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10feef3de819a10d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e202d7c9db2587a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b9250581f3ff12c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cefbf5ef76655eaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2d52c2e4290250d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eeafb6bc6f80dc46",
+    "type": "split",
+    "children": [
+      {
+        "id": "f48fc3cd545ea080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a860c919a68361",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7c6c3b8c184fcc52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b2ebdac3296e4a09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a81d3fb6e65bb713",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "cc2ba2eab59ee5b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "04b344428e6d095d",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "01 About Me/Writing Style.md",
+    "01 About Me/Personal Preferences.md",
+    "01 About Me/Biography.md",
+    "10 Microsoft Security/_MOC.md",
+    "30 Rivoli Properties Group/Rivoli Group Structure.md",
+    "30 Rivoli Properties Group/Jeanie Mann.md",
+    "Untitled.md",
+    "90 AI/AI Outputs",
+    "90 AI/Prompt Library",
+    "90 AI/Claude",
+    "90 AI/ChatGTP",
+    "90 AI/AI Instructions",
+    "99 Archive",
+    "90 AI",
+    "80 Projects",
+    "70 Personal",
+    "60 Fitness",
+    "10 Microsoft Security/LinkedIn Posts/Day_01_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_99_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_98_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_97_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_96_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_95_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_94_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_93_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_92_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_91_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_90_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_89_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_88_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_87_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_86_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_85_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_84_LinkedIn.md",
+    "10 Microsoft Security/LinkedIn Posts/Day_83_LinkedIn.md"
+  ]
+}

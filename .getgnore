@@ -1,0 +1,34 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Office temporary files
+~$*
+
+# Application logs
+*.log
+
+# Private/secrets area
+90 AI/Secrets/
+Secrets/
+.env
+*.env
+
+# Credentials and keys
+*.key
+*.pem
+*.pfx
+*.p12
